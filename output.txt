@@ -1,0 +1,3 @@
+windscribe -- pid: 1435, status: running, uptime: 11h 54m, %cpu: 0.0, %mem: 0.2
+IP: 167.160.172.14
+CONNECTED -- US UDP (443)
